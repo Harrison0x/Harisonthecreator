@@ -1,0 +1,7 @@
+Add your hero reel to this folder with this exact filename:
+
+hero-reel.mp4
+
+The website is already configured to autoplay it silently, loop it, and show it full-screen behind the responsive honeycomb effect.
+
+For the best result, use an MP4 in a wide 16:9 format, 1920x1080 or higher, without sound. Keep it under about 12 MB where possible so the page still feels fast.
